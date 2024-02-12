@@ -10,11 +10,13 @@ One finger for drawing: Control the brush position and create lines with natural
 Separate finger for color selection: Switch between a range of vibrant colors effortlessly using another finger on your hand.
 
 1. Install required libraries:
+    ```bash
     - pip install opencv-python
     - pip install numpy
     - pip install mediapipe
 
-2. Clone or download the project files.
+3. Clone or download the project files.
 
-3. Run the script:
-    - python main.py
+4. Run the script:
+    ```bash
+    - python paint.py
