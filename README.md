@@ -11,9 +11,10 @@ Separate finger for color selection: Switch between a range of vibrant colors ef
 
 1. Install required libraries:
     ```bash
-    - pip install opencv-python
-    - pip install numpy
-    - pip install mediapipe
+     pip install opencv-python
+     pip install numpy
+     pip install mediapipe
+    ```
 
 2. Clone or download the project files.
    ```bash
@@ -21,4 +22,5 @@ Separate finger for color selection: Switch between a range of vibrant colors ef
    ```
 4. Run the script:
     ```bash
-    - python paint.py
+     python paint.py
+    ```
