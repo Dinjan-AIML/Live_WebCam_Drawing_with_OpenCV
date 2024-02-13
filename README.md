@@ -15,8 +15,10 @@ Separate finger for color selection: Switch between a range of vibrant colors ef
     - pip install numpy
     - pip install mediapipe
 
-3. Clone or download the project files.
-
+2. Clone or download the project files.
+   ```bash
+   git clone https://github.com/Dinjan-AIML/Live_WebCam_Drawing_with_OpenCV.git
+   ```
 4. Run the script:
     ```bash
     - python paint.py
